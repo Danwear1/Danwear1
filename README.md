@@ -21,7 +21,7 @@ e pretendo continuar no aprendizado, para desenvolver meu conhecimentos.
 
 # Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Danwear1&repo=Curriculo-Example&theme=tokyonight)](https://github.com/Danwear1/Curriculo-Example/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Danwear1&repo=Curriculo-Example&theme=tokyonight)](https://Danwear1.github.io/Curriculo-Example/)
 
 # Contatos
 
